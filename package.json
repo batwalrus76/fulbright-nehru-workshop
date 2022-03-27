@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@marp-team/marp-core": "^2.3.2"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^1.7.0"
+  }
+}
