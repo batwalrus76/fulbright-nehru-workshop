@@ -43,6 +43,9 @@
 *.pdb
 *.pptx
 
+# Mac files
+**/.DS_Store
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
