@@ -13,15 +13,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    
-    - name: configure
-      run: ./configure
       
-    - name: Install dependencies
-      run: make
+    - name: Clean slides
+      run: make clean-slides
       
-    - name: Run check
-      run: make check
-      
-    - name: Run distcheck
-      run: make distcheck
+    - name: Build slides
+      run: make build-slides
