@@ -2,7 +2,7 @@
 
 ## Lecture Material
 
-run ```make build-slides`` and the following Powerpoint slides will be generated:
+run ```make build-slides``` and the following Powerpoint slides will be generated:
 
 - lecture-slides-01-00.pptx
 
