@@ -1,4 +1,4 @@
-## Fulbright-Nehru Lecture 01 Package Managers
+## Fulbright-Nehru Lecture 12 Package Managers
 
 Chancellor T. Pascale
 Fulbright-Nehru

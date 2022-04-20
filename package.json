@@ -1,8 +1,6 @@
 {
   "dependencies": {
-    "@marp-team/marp-core": "^2.3.2"
-  },
-  "devDependencies": {
+    "@marp-team/marp-core": "^2.3.2",
     "@marp-team/marp-cli": "github:marp-team/marp-cli"
   }
 }

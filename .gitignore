@@ -56,3 +56,6 @@ Mkfile.old
 dkms.conf
 
 node_modules/
+
+# Image files
+*.svg
