@@ -53,6 +53,16 @@ Summer 2022
 - ```sudo apt upgrade``` - Upgrade all apt installed packages
 
 -------------------------------
+
+## Languages have Package Managers too!
+
+- Node - npm
+- Java - maven
+- Python - pip/poetry
+- C/C++ - Conan, though apt, etc. also help with this as well
+
+-------------------------------
+
 ## Bibliography
 
 - [Package Management](https://ubuntu.com/server/docs/package-management)
