@@ -66,21 +66,6 @@ Summer 2022
 - `awk` - scan a file or standard input for lines matching a pattern
 
 -------------------------------
-## Process Management
-
-- `ps [-options]` - Get the status of running processes
-    - `-a` - Look at all processes (not just your own)
-    - `-u` - Include username in the results
-- `top` - Display a sorted list of processes (by default those using the most CPU)
-- `kill <-signal_name or number> pid` - Terminate/Send a signal to a running process
-    - `-1` - Kill all processes if super user
-    - `-2` - interrupt
-    - `-3` - quit
-    - `-9` - kill
-- `killall` - Like above but instead of pid, kill by process name
-    - Good for killing processes based service, processing language, cli tool (e.g. java, docker, etc.)
-
--------------------------------
 ## Most Important Command
 
 - `man command` - Open the manual for the command, which is not always available
