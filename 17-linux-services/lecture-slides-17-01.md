@@ -11,6 +11,7 @@ Summer 2022
 - service
 - sysmon
 - Modern Package Managers and Services
+- Service Filesystem
 
 -------------------------------
 ## systemctl
@@ -50,6 +51,14 @@ Summer 2022
 - `snapctl [set|get|info|reboot|services|stop|start] <service-name>` - Manages system and services in one command
 - `snapcraft <-options>` - In conjunction with snap-based YAML files build packages and services
 [2](https://snapcraft.io)
+
+-------------------------------
+## Service Filesystem
+
+- `/etc/init.d` - Service daemon configuration
+- `/var/log` - Service logs
+- `/opt` - A good centralized location for deploying services
+- `/etc/systemd/system` - services/scripts put here can be managed by systemd/systemctl
 
 -------------------------------
 ## Bibliography
