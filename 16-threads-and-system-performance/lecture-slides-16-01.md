@@ -1,4 +1,4 @@
-## Fulbright-Nehru Lecture 15 Threads and System Performance
+## Fulbright-Nehru Lecture 16 Threads and System Performance
 
 Chancellor T. Pascale
 Fulbright-Nehru
@@ -48,7 +48,7 @@ Summer 2022
 
 - `iostat <options>` - Reports various I/O stats
 
-![Top Command](./images/iostat_command.png)
+![iostat Command](./images/iostat_command.png)
 
 -------------------------------
 ## netstat Command
