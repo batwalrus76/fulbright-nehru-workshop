@@ -10,6 +10,7 @@ Summer 2022
 - ps
 - top
 - kill/killall
+- nohup
 - iostat
 - netstat
 
@@ -42,6 +43,14 @@ Summer 2022
     - `-9` - kill
 - `killall` - Like above but instead of pid, kill by process name
     - Good for killing processes based service, processing language, cli tool (e.g. java, docker, etc.)
+
+-------------------------------
+## nohup command
+
+- `nohup <command to execute>` - Executes the command that cannot be "hung up" via SIGHUP
+- Appends the standard output (not stderr) to nohup.out
+- Combined with putting the command in the background and tailing (with -f) nohup.out is a good way to track command output but not lose it as buffer is overrun.
+- Can also be filtered for certain errors, etc.
 
 -------------------------------
 ## iostat Command
