@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 07 Decision
+# Fulbright-Nehru Lectures
+## 07 Decision
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

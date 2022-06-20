@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 13 Linux Shells and Environment Variables
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 13 Linux Shells and Environment Variables
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

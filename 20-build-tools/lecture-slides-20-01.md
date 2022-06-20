@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 20 Build Tools
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 20 Build Tools
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

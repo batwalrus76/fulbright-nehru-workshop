@@ -61,3 +61,10 @@ node_modules/
 *.svg
 
 .idea/
+slides/diagrams/*.svg*
+slides/diagrams/*.jpg
+slides/diagrams/*.png
+slides/images/*.png
+slides/images/*.jpg
+slides/*.html
+slides/*.md

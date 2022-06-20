@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 05 Remix, Improve, and Sketch
+# Fulbright-Nehru Lectures
+## 05 Remix, Improve, and Sketch
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

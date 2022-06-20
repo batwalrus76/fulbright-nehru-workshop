@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 12 Package Managers
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 12 Package Managers
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

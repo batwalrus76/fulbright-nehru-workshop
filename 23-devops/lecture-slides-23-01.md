@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 23 DevOps
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 23 DevOps
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

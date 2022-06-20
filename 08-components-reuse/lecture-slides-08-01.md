@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 08 Component Reuse
+# Fulbright-Nehru Lectures
+## 08 Component Reuse
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

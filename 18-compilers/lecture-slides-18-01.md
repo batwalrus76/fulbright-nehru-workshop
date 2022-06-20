@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 18 Compilters
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 18 Compilters
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

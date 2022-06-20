@@ -1,4 +1,16 @@
-## Fulbright-Nehru Lecture 25 C/C++ Package and Application Distribution
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 25 C/C++ Package and Application Distribution
+
+
 Chancellor T. Pascale
 Fulbright-Nehru
 Summer 2022

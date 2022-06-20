@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 09 Prototype
+# Fulbright-Nehru Lectures
+## 09 Prototype
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

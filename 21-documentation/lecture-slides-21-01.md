@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 21 Documentation
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 21 Documentation
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

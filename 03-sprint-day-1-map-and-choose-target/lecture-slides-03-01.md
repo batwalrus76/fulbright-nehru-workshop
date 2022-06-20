@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 03 Map and Choose Target
+# Fulbright-Nehru Lectures
+## 03 Map and Choose Target
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

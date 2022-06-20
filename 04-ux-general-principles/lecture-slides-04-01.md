@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 04 UX General Principles
+# Fulbright-Nehru Lectures
+## 04 UX General Principles
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

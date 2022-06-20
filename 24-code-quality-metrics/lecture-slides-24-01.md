@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 24 Code Quality Metrics
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 24 Code Quality Metrics
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

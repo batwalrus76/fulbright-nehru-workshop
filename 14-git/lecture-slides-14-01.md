@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 14 Git
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 14 Git
+
 
 Chancellor T. Pascale
 Fulbright-Nehru
@@ -76,7 +87,7 @@ Summer 2022
 
 ## GitHub Flow
 
-![bg right](./images/github_flow.jpeg)
+![bg right](./images/github_flow.jpg)
 [3]
 
 -------------------------------

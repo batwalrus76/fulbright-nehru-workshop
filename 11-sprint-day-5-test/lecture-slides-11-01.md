@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 10 UI Frameworks
+# Fulbright-Nehru Lectures
+## 10 UI Frameworks
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

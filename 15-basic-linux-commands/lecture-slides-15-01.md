@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 15 Basic Linux Commands
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 15 Basic Linux Commands
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

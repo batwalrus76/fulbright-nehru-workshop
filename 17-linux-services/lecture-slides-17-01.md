@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 17 Linux Services
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 17 Linux Services
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

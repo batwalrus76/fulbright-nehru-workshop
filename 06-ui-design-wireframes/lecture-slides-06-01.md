@@ -1,9 +1,15 @@
 ---
 marp: true
 paginate: true
+theme: default
+class:
+  - lead
+  - invert
 ---
 
-## Fulbright-Nehru Lecture 06 UI Wireframes
+# Fulbright-Nehru Lectures
+## 06 UI Wireframes
+
 
 Chancellor T. Pascale
 Fulbright-Nehru

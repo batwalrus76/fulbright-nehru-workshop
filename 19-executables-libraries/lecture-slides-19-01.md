@@ -1,4 +1,14 @@
-## Fulbright-Nehru Lecture 19 Executables and Libaries
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 19 Executables and Libaries
 
 Chancellor T. Pascale
 Fulbright-Nehru

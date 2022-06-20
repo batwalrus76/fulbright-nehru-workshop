@@ -1,4 +1,15 @@
-## Fulbright-Nehru Lecture 16 Threads and System Performance
+---
+marp: true
+paginate: true
+theme: default
+class:
+  - lead
+  - invert
+---
+
+# Fulbright-Nehru Lectures
+## 16 Threads and System Performance
+
 
 Chancellor T. Pascale
 Fulbright-Nehru
