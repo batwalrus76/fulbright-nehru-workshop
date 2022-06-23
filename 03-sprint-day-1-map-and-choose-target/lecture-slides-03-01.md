@@ -17,16 +17,16 @@ Summer 2022
 
 -------------------------------
 
-### How this will work (and each other day of this sprint)
+# How this will work (and each other day of this sprint)
 
 - Each team works independently
 - We are working with 1/2 the time so be efficient
 - If you are stuck ask each other questions and then ask a facilitator
 - At the end of the sprint day, each team will share their general progress
 - Take breaks when you need them
-- 
+
 -------------------------------
-### General Principles
+# General Principles
 
 - Start at the End
 - Map
@@ -35,17 +35,16 @@ Summer 2022
 
 -------------------------------
 
-### Start at the end
+# Start at the end
 
 - Ask each other:
-    > "Why are we doing this project? Where do we want to be in six months, a year or even five years from now?"
-    -- <cite>[Jake Knapp][1]</cite>
+    > "Why are we doing this project? Where do we want to be in six months, a year or even five years from now?" [1]
 - Collect sprint questions, taking into account what are the short to long term results
 - Consider what are reasonable answers to these questions
 
 -------------------------------
 
-### Map
+# Map
 
 - You are going to make map of the use of your component
 - Take the following steps [1]:
@@ -54,10 +53,11 @@ Summer 2022
     3. Words and arrows in between - focus on it being functional
     4. Keep it simple
     5. Ask for help
+![bg right w: 574 h: 227](images/map.png)
 
 -------------------------------
 
-### Ask the experts
+# Ask the experts
 
 - Ensure that the decider, a user/user-facing person, a strong dev, and someone with some experience all are present
 - Describe the sprint, go over what you have mapped on the whiteboards (just 1-2 minutes)
@@ -71,14 +71,15 @@ Summer 2022
 
 -------------------------------
 
-### Target
+# Target
 
 - Decide which user and event you plan to target
 - Go back to sprint questions and highlight the question that this event is answering
 - You now have a target for your prototype for the end of the week
+![w:790 h:393](images/target.png)
 
 -------------------------------
 
-### Bibliography
+# Bibliography
 
 1. Knapp, J. Sprint; Penguin Books: London, 2021. 

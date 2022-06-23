@@ -22,13 +22,21 @@ build-slides-dir:
 clean-slides-dir:
 	rm -rf slides/*.md slides/diagrams/* slides/images/*
 
-run-marp-watch:
-	bash -c "nohup marp  --watch slides" \;
-
 run-marp-server:
 	bash -c "nohup marp --server slides &" \;
 
-run: clean-slides-dir build-slides-dir run-marp-server
+build-exercises-dir:
+	find . -type d -name "[0-9]*" -not -path '*/.*' -exec bash -c "cp -r \"{}\"/exercises/*.md exercises &>/dev/null" \;
+	find . -type d -name "[0-9]*" -not -path '*/.*' -exec bash -c "cp -r \"{}\"/exercises/diagrams/* exercises/diagrams &>/dev/null" \;
+	find . -type d -name "[0-9]*" -not -path '*/.*' -exec bash -c "cp -r \"{}\"/exercises/images/* exercises/images &>/dev/null" \;
+
+clean-exercises-dir:
+	rm -rf exercises/*.md exercises/diagrams/* exercises/images/*
+
+run-marp-server:
+	bash -c "nohup marp --server . &" \;
+
+run: clean-slides-dir build-slides-dir clean-exercises-dir build-exercises-dir run-marp-server
 
 stop:
 	killall -9 node
