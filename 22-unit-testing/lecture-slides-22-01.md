@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Unit Testing
+# Unit Testing
 
 - What is the Purpose of Unit Testing?
 - Principles of Unit Testing
@@ -27,7 +27,7 @@ Summer 2022
 - Mocks and Why You Should Use Them
 
 -------------------------------
-## What is the Purpose of Unit Testing?
+# What is the Purpose of Unit Testing?
 
 - Ensure that written code matches expected outcomes based on inputs and state
 - Identify when updates to code breaks expectations of any code that uses the updated code or any functions that call it.
@@ -35,7 +35,7 @@ Summer 2022
 - When written well can substitute for human hand executed tests and harnesses.
 
 -------------------------------
-## Principles of Unit Testing
+# Principles of Unit Testing
 
 - Tests in isolation as much as possible
 - Two types of tests state-based and interaction-based
@@ -46,7 +46,7 @@ Summer 2022
 - Not integration testing, which tests system and interfaces in the real world
 
 -------------------------------
-## What Not to Do When Writing Unit Tests
+# What Not to Do When Writing Unit Tests
 
 - Write tests to recreate the code
 - Write tests that pass no matter what
@@ -57,7 +57,7 @@ Summer 2022
 [1]
 
 -------------------------------
-## CUnit/CppUnit part 1
+# CUnit/CppUnit part 1
 
 - CUnit testing hierarchy is Test Registry -> Suite -> Test
 - CUnit testing process:
@@ -70,7 +70,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## CUnit/CppUnit part 2
+# CUnit/CppUnit part 2
 
 - You can retrieve various test results
 - Test functions names need to start with `test_`
@@ -80,7 +80,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## Google Test
+# Google Test
 
 - xUnit testing standard compliant
 - Two types of tests `ASSERT_*` (fatal on test failure) and `Expect_*` (non-fatal)
@@ -95,7 +95,7 @@ Summer 2022
 [3]
 
 -------------------------------
-## Boost Test Library
+# Boost Test Library
 
 - Test Cases are called with the following pattern `BOOST_TEST_CASE( &test_function)` the test function is what actually performs the unit test
 - Test cases can be dynamic and parameterized
@@ -107,7 +107,7 @@ Summer 2022
 [4]
 
 -------------------------------
-## Mocks, Fakes, and Stubs
+# Mocks, Fakes, and Stubs
 
 - Mocks, fakes, and stubs and are essential tools to test functions in isolation, especially when functions call other tests under test.
 - They can be as simple as replacing the output of a dependent function or as complex as acting like a database or web server.
@@ -118,7 +118,7 @@ Summer 2022
 [5]
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Kolodiy, S. (2015, June 18). Unit tests, how to write Testable code and why it matters. Toptal Engineering Blog. Retrieved June 4, 2022, from https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters.
 2. CUnit. Cunit. (n.d.). Retrieved June 4, 2022, from http://cunit.sourceforge.net/doc/index.html.

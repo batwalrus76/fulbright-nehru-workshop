@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Process Management and Performance Montioring Commands
+# Process Management and Performance Montioring Commands
 
 - ps
 - top
@@ -27,7 +27,7 @@ Summer 2022
 
 
 -------------------------------
-## ps Command
+# ps Command
 
 - `ps [-options]` - Get the status of running processes
     - `-a` - Look at all processes (not just your own)
@@ -37,7 +37,7 @@ Summer 2022
 - Can search by command such as `python`, `docker`, or `tomcat`
 
 -------------------------------
-## top Command
+# top Command
 
 - `top` - Display a sorted list of processes (by default those using the most CPU)
 - Will need to kill, freeze, or quit for command to exit
@@ -45,7 +45,7 @@ Summer 2022
 ![Top Command](./images/top_command.png)
 
 -------------------------------
-## kill/killall Commands
+# kill/killall Commands
 
 - `kill <-signal_name or number> pid` - Terminate/Send a signal to a running process
     - `-1` - Kill all processes if super user
@@ -56,7 +56,7 @@ Summer 2022
     - Good for killing processes based service, processing language, cli tool (e.g. java, docker, etc.)
 
 -------------------------------
-## nohup command
+# nohup command
 
 - `nohup <command to execute>` - Executes the command that cannot be "hung up" via SIGHUP
 - Appends the standard output (not stderr) to nohup.out
@@ -64,14 +64,14 @@ Summer 2022
 - Can also be filtered for certain errors, etc.
 
 -------------------------------
-## iostat Command
+# iostat Command
 
 - `iostat <options>` - Reports various I/O stats
 
 ![iostat Command](./images/iostat_command.png)
 
 -------------------------------
-## netstat Command
+# netstat Command
 
 - `netstat <options>` - Reports various networking stats and information
 - Good when combined with commands like grep to find if services are running on network ports and the hostname/IP address

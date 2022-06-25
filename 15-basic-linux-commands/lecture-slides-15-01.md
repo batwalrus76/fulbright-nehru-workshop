@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Linux Commands
+# Linux Commands
 
 - Listing Files
 - Creating Files/Folders
@@ -26,7 +26,7 @@ Summer 2022
 - Process Management
 
 -------------------------------
-## Listing Files
+# Listing Files
 
 - `ls [-options] <filesystem location>` - List the contents of the filesystem location
     - `-l` long format
@@ -35,7 +35,7 @@ Summer 2022
 - tree [-options] <filesystem location>` - Traverse the passed filesystem location's directory tree
 
 -------------------------------
-## Filesystem management 1
+# Filesystem management 1
 
 - `touch <filesystem location>` - Create a file at the location specified, owned by the current user and their default group.
 - `mkdir <filesystem location>` - Make a directory at the location specified, owned by the current user and their default group.
@@ -44,7 +44,7 @@ Summer 2022
     - `-f` - force (use this with caution
 
 -------------------------------
-## Filesystem management 2
+# Filesystem management 2
 
 - `rmdir <filesystem location>*` - Remove all empty specified directories
 - `cp [-options] <filesystem location>* <destination filesystem location>` - Copy one or more files to the file or destination folder
@@ -53,7 +53,7 @@ Summer 2022
     - `s` - Create a symbolic link (keeping the file/folder at its original location)
 
 -------------------------------
-## Filesystem Permissions
+# Filesystem Permissions
 
 - `chown <username>[:<group>] [-options] <filesystem location>*` - Change ownership to user and optionally group for one or more files
 - `chgrp [-options] <group> <filesystem location>*` - Change the group ownership of one or more files
@@ -62,7 +62,7 @@ Summer 2022
     - symbolic mode - much more complex, look at the man page for specifics
 
 -------------------------------
-## Moving through the Filesystem
+# Moving through the Filesystem
 
 - `~` - Change to the current user's home directory
 - `cd <filesystem location>` - Change to the specified location
@@ -70,14 +70,14 @@ Summer 2022
 - `popd <filesystem location>` - Change to the directory at the top of the directory stack, which is removed
 
 -------------------------------
-## Text Processing
+# Text Processing
 
 - `grep` - Search a file or standard input for all occurences of a regular file
 - `sed` - edit a file or standard input
 - `awk` - scan a file or standard input for lines matching a pattern
 
 -------------------------------
-## Most Important Command
+# Most Important Command
 
 - `man command` - Open the manual for the command, which is not always available
 

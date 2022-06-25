@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## C/C++ Code Distribution
+# C/C++ Code Distribution
 
 - Source vs Executable vs Library
 - Package Management Tool-specific Distribution Strategies
@@ -25,14 +25,14 @@ Summer 2022
 - Containerized Distribution Options
 
 -------------------------------
-## Source vs Executable vs Library
+# Source vs Executable vs Library
 
 - Distribute code via GitHub or similar public SCM - universally available, good tooling, and built-in versioning/tags/release capabilities
 - Executables and libraries are best released to artifact repositories, especially those that can easily integrate with distribution-specific package managers
 - CI/CD should manage both the tagging/releasing of source code and deployment to artifact repositories.
 
 -------------------------------
-## Package Management Tool-specific Distribution Strategies
+# Package Management Tool-specific Distribution Strategies
 
 - Based on your distribution you will need to create different file artifacts and content within them:
 - Debian binary package content is compressed tar.gz file with .deb extension and the following content:
@@ -47,7 +47,7 @@ Summer 2022
 [1] [2]
 
 -------------------------------
-## Linux Distribution Repositories
+# Linux Distribution Repositories
 
 - Some come with linux installation, which are the most trustworthy
 - RPM-based systems: [3]
@@ -60,7 +60,7 @@ Summer 2022
   - sudo add-apt-repository "deb http://us.archive.ubuntu.com/ubuntu/ saucy-updates universe multiverse"
 
 -------------------------------
-## Source-based Distribution Strategies
+# Source-based Distribution Strategies
 
 - Distribute your code from a SCM repository service
 - A README.md should be written for better understanding and usage description
@@ -70,7 +70,7 @@ Summer 2022
 - Optional content like man files/folders will improve user understanding of tool usage
 
 -------------------------------
-## Containerized Distribution Options
+# Containerized Distribution Options
 
 - A newer distribution pattern, usually requires Docker but could be less popular options such as rkt.
 - Each container is like a mini-OS, 
@@ -79,7 +79,7 @@ Summer 2022
 - With commands like `docker exec -it` you can execute commands in the container and interact, which is very helpful for running executables or debugging.
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Package Structure. (n.d.). Retrieved June 5, 2022, from https://tldp.org/HOWTO/Debian-Binary-Package-Building-HOWTO/x60.html.
 2. Chapter 7. Basics of the Debian package management system. (n.d.). Retrieved June 5, 2022, from https://www.debian.org/doc/manuals/debian-faq/pkg-basics.en.html.

@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## System Management Commands
+# System Management Commands
 
 - systemctl
 - service
@@ -25,7 +25,7 @@ Summer 2022
 - Service Filesystem
 
 -------------------------------
-## systemctl
+# systemctl
 
 - The most common means of controlling linux services
 - systemd is the daemon for all system level services
@@ -35,7 +35,7 @@ Summer 2022
 - Note you may need to `.service` to the common name for a service
 
 -------------------------------
-## service
+# service
 
 - An older variant of systemctl
 - Works along with systemd/systemctl
@@ -43,7 +43,7 @@ Summer 2022
 - In the end, shows the output of the equivalent systemctl
 
 -------------------------------
-## sysmon
+# sysmon
 
 - Tool that has been around for a whilem though its' level of use is probably higher on Windows
 - More of an interactive tool
@@ -53,7 +53,7 @@ Summer 2022
 ![bg left contain](./images/linux-sysmon-tail-sysmonlogview.png) [1]
 
 -------------------------------
-## Modern Package Managers and Services
+# Modern Package Managers and Services
 
 - These days package managers don't just install executables or libraries
 - Snap and brew, along with others, either run their own system service daemons or use ones like systemctl
@@ -64,7 +64,7 @@ Summer 2022
 [2](https://snapcraft.io)
 
 -------------------------------
-## Service Filesystem
+# Service Filesystem
 
 - `/etc/init.d` - Service daemon configuration
 - `/var/log` - Service logs
@@ -72,7 +72,7 @@ Summer 2022
 - `/etc/systemd/system` - services/scripts put here can be managed by systemd/systemctl
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Rodriguez, R. (2021, October 14). Automating the deployment of sysmon for linux 🐧 and Azure Sentinel in a lab environment 🧪. TECHCOMMUNITY.MICROSOFT.COM. Retrieved May 22, 2022, from https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-the-deployment-of-sysmon-for-linux-and-azure-sentinel/ba-p/2847054
 2. https://snapcraft.io

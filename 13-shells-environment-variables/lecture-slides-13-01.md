@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## <!--fit--> What is a Linux Shell?
+# What is a Linux Shell?
 
 - "The shell is a program that takes commands from the keyboard and gives them to the operating system to perform" [1]
 - In the past, the operating system was only a CLI shell.
@@ -25,7 +25,7 @@ Summer 2022
 
 -------------------------------
 
-## <!--fit--> The History of Shells
+# The History of Shells
 
 - The grandfather of all shells is the Thompson Shell, tsh.
 - The next iteration was the Bourne Shell (1979), bash, which has been the default shell for many years.
@@ -38,7 +38,7 @@ Summer 2022
 
 -------------------------------
 
-## <!--fit--> How is that different from a terminal?
+# How is that different from a terminal?
 
 - "A program that opens a window and lets you interact with the shell" [1]
 - Some examples are xterm, konsole, iTerm, and gnome-terminal
@@ -46,7 +46,7 @@ Summer 2022
 
 -------------------------------
 
-## <!--fit--> The Next Generation of Shells and Terminals
+# The Next Generation of Shells and Terminals
 
 - Newer shells such as fish, oh-my-zsh, etc. provide plugins that integrate with linux services and applications.
 - With terminal multiplexers such as screen and tmux, shell sessions/sockets can be shared and scripted.
@@ -54,7 +54,7 @@ Summer 2022
 
 -------------------------------
 
-## <!--fit--> How do Shells differ?
+# How do Shells differ?
 
 - Shells can be run in an ongoing or used to execute single commands or scripts
 - csh and bash and their offspring, generally differ in how they are interacted with and programmed.
@@ -64,7 +64,7 @@ Summer 2022
 
 -------------------------------
 
-## <!--fit--> Shell Building Blocks
+# Shell Building Blocks
 
 - Pipes `|` - Connecting the standard output of one command as the standard input to another
 - Redirects `> and >>` - Write and append standard output to files
@@ -77,7 +77,7 @@ Summer 2022
 
 -------------------------------
 
-## Bibliography
+# Bibliography
 
 - Shotts, W. E. (n.d.). What is "The shell"? Learning the shell - Lesson 1: What is the shell? Retrieved May 16, 2022, from https://linuxcommand.org/lc3_lts0010.php
 - Hoffman, C. (2017, June 20). What's the difference between bash, zsh, and other linux shells? Retrieved May 16, 2022, from https://www.howtogeek.com/68563/htg-explains-what-are-the-differences-between-linux-shells/

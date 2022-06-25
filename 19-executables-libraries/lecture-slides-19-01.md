@@ -15,7 +15,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Linux Executables and Libaries
+# Linux Executables and Libaries
 
 - Common Executable Types
 - Libraries
@@ -24,7 +24,7 @@ Summer 2022
 - Developing Executables
 
 -------------------------------
-## Common Executable Types
+# Common Executable Types
 
 - `.exe` - Typically a Windows OS executable type
 - `.run` - Linux executable
@@ -35,7 +35,7 @@ Summer 2022
 [1]
 
 -------------------------------
-## Libraries
+# Libraries
 
 - Header files (e.g. .h, .hpp)
   - often found in `include` folders based on purpose and level of access
@@ -50,7 +50,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## Installing C/C++ libraries
+# Installing C/C++ libraries
 
 - Use the Linux distribution's package manager to install the needed library
 - Get the library source code and use configure/make command to put executables, headers, and/or libraries
@@ -58,7 +58,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## Developing Libraries
+# Developing Libraries
 
 - For building libraries, consider which variables, functions, types, and classes you want to expose.
 - Make sure all public variables, etc. is included in one or more header files
@@ -69,7 +69,7 @@ Summer 2022
 - If static library, use the `-c` flag, by convention make the output extension `.so` [4]
 
 -------------------------------
-## Developing Executables
+# Developing Executables
 
 - Compiling and linking with `gcc` or other compilers is generally done with the `-o`.
 - To be executable, the `.c` source code file needs a `main` function.
@@ -77,7 +77,7 @@ Summer 2022
 - If you want to be executable by all other users place in a folder that is part of the `PATH` environment variable.
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Executable files. Executable File Formats. (n.d.). Retrieved June 4, 2022, from https://fileinfo.com/filetypes/executable. 
 2. Alex. (2020, January 23). Learn C++. Retrieved June 4, 2022, from https://www.learncpp.com/cpp-tutorial/a1-static-and-dynamic-libraries/.

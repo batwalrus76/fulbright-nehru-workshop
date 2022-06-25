@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Software Documentation
+# Software Documentation
 
 - What is the General Goal of Documentation
 - Design Documentation
@@ -28,14 +28,14 @@ Summer 2022
 - hdoc
 
 -------------------------------
-## What is the General Goal of Documentation
+# What is the General Goal of Documentation
 
 - Documentation should inform users and developers of the general intent of the software.
 - Better documentation allows for high-level/introductionary material down to information.
 - Over the past few years documentation systems support building hierarchical websites.
 
 -------------------------------
-## Design Documentation
+# Design Documentation
 
 - Design documents are used to indicate to developers the intent and components that make up a system
 - Examples of documents are requirements, process, architecture, and product roadmaps.
@@ -46,7 +46,7 @@ Summer 2022
 [1]
 
 -------------------------------
-## User Documentation
+# User Documentation
 
 - User documentation can be found in many ways, again based on the development methodology.
 - Formats are exhaustive user manuals, tutorials, and walkthrough videos.
@@ -54,14 +54,14 @@ Summer 2022
 - Good user docs are written in a way that are biased by developer-level management.
 
 -------------------------------
-## Code Documentation
+# Code Documentation
 
 - Code can be documented at different levels (from method-level to package-level).
 - Many documentation systems require in-code comments to expose information about method arguments, class descriptions, etc.
 - Different languages and documentation systems use different annotations to allow linking between classes and types, which is especially useful in rendered websites.
 
 -------------------------------
-## Markdown Documentation
+# Markdown Documentation
 
 - A very simple and general language for generating Word docs, PDF files, and websites.
 - It uses a simple syntax that supports the following styles and functional capabilities:
@@ -75,7 +75,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## Doxygen
+# Doxygen
 
 - The default documentation standard for C++, but can be used with other languages like Java, C#, etc.
 - Can output XML, Latex, man pages, and HTML pages
@@ -87,7 +87,7 @@ Summer 2022
 [3]
 
 -------------------------------
-## Sphinx
+# Sphinx
 
 - Autogenerate projects initially include conf.py and index.rst files.
 - The conf.py configures how the `sphinx` command renders docs, such as html, latex, etc.
@@ -98,7 +98,7 @@ Summer 2022
 [4]
 
 -------------------------------
-## hdoc
+# hdoc
 
 - Built to be the modern C/C++ documentation system
 - Uses environment variables such as `SRC_ROOT` and `OBJ_ROOT`, for configuring the root of the source code and where to place output objects.
@@ -110,7 +110,7 @@ Summer 2022
 [5]
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Technical documentation in software development: Types, best practices, and Tools. AltexSoft. Retrieved June 4, 2022, from https://www.altexsoft.com/blog/business/.technical-documentation-in-software-development-types-best-practices-and-tools/.
 2. Gruber, J. (n.d.). Markdown: Basics. Daring Fireball: Markdown Basics. Retrieved June 4, 2022, from https://daringfireball.net/projects/markdown/basics.

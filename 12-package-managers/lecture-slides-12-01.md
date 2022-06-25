@@ -16,14 +16,14 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## <!--fit--> What are Package Managers?
+# What are Package Managers?
 
 - They manage the distribution of libraries, resources, and executables for operating systems (OS's).
 - They provide built-in secure capabilities such as checksums, local and trusted repositories, and connections
 - For linux, they are numerous options and some are OS-specific
 
 -------------------------------
-## <!--fit--> What is the Common Alternative to Package Managers?
+# What is the Common Alternative to Package Managers?
 
 - Distribution of code can be done via FTP and HTTP source repositories
 - You will need to configure how the source will be compiled ```./configure```
@@ -33,7 +33,7 @@ Summer 2022
 - Not hard but it might be nice to have a tool to handle this
 
 -------------------------------
-## Ubuntu Package Managers
+# Ubuntu Package Managers
 
 - dpkg - Debian-based basic package manager
 - Apt (in the past there were a few apt-related executables) - Better generic package manager
@@ -41,7 +41,7 @@ Summer 2022
 - Snap - Pretty new universal Linux package manager
 
 -------------------------------
-## How to get packages?
+# How to get packages?
 
 - Retrieve .deb package files (for use with ```dpkg```)
 - Apt comes with package repos but they can be added via:
@@ -49,14 +49,14 @@ Summer 2022
   - ```deb-src http://repository.com/ubuntu distro-name [universe|multiverse]``` - universe/multiver source repo
 
 -------------------------------
-## dpkg Commands
+# dpkg Commands
 
 - ```dpkg -l``` - List available packages
 - ```sudo dpkg -i package.deb``` - Install package via .deb file
 - ```sudo dpkg -r package``` - Remove dpkg installed package
 
 -------------------------------
-## Apt Commands
+# Apt Commands
 
 - ```sudo apt install package``` - Install a package (multiple packages can be added at the same time)
 - ```sudo apt remove package``` - Uninstall an installed package
@@ -65,7 +65,7 @@ Summer 2022
 
 -------------------------------
 
-## Languages have Package Managers too!
+# Languages have Package Managers too!
 
 - Node - npm
 - Java - maven
@@ -74,7 +74,7 @@ Summer 2022
 
 -------------------------------
 
-## Bibliography
+# Bibliography
 
 - [Package Management](https://ubuntu.com/server/docs/package-management)
 - [Installing Software](https://help.ubuntu.com/community/InstallingSoftware?_ga=2.4274099.1457497048.1649023980-1171676718.1649023980)

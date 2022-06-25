@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Compilers
+# Compilers
 
 - Why do we need compilers?
 - How do we use compiled objects and executables?
@@ -26,7 +26,7 @@ Summer 2022
 - tcc
 
 -------------------------------
-## Why do we need compilers?
+# Why do we need compilers?
 
 - We are humans and modern programming languages are higher-level and are written for humans to read
 - You have multiple files and library dependencies
@@ -36,7 +36,7 @@ Summer 2022
 [1]
 
 -------------------------------
-## How do we use compiled objects and executables?
+# How do we use compiled objects and executables?
 
 - We use a compiler to take all of the code we have written in multiple files (source and header) and create object files.
 - Object files act as a near term library, which can be reference from other source code files.
@@ -44,7 +44,7 @@ Summer 2022
 - Object files can then be linked/compiled into an executable file.
 
 -------------------------------
-## cc
+# cc
 
 - The C compiler is often aliased to gcc, g++, or clang.
 - CC is meant to be aliased to the default c compiler executable for a given machine
@@ -53,7 +53,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## gcc
+# gcc
 
 - The GNU C compiler
 - It is the most common C compiler
@@ -64,14 +64,14 @@ Summer 2022
 [3]
 
 -------------------------------
-## g++
+# g++
 
 - The GNU C++ compiler
 - To be honest, the only easily recognized difference is that it is designed to use `.cpp` files instead of `.c`.
 - Most commands work like `gcc`, this is by design to encourage C developers to easily transition to from gcc to g++.
 
 -------------------------------
-## tcc
+# tcc
 
 - The Tiny C compiler
 - Built to compile C code in environments that require it and its code to take up little disk space.
@@ -82,7 +82,7 @@ Summer 2022
 [4]
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Sheldon, R. (2022, April 29). What is a compiler? WhatIs.com. Retrieved June 3, 2022, from https://www.techtarget.com/whatis/definition/compiler 
 2. CC Command in linux with examples. GeeksforGeeks. (2019, May 15). Retrieved June 3, 2022, from https://www.geeksforgeeks.org/cc-command-in-linux-with-examples/ 

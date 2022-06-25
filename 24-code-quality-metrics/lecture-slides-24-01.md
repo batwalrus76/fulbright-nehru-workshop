@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Code Quality Metrics
+# Code Quality Metrics
 
 - What is Good Code?
 - Static Analysis
@@ -25,7 +25,7 @@ Summer 2022
 - C/C++ Specific Tooling
 
 -------------------------------
-## What is Good Code?
+# What is Good Code?
 
 - Only as complex as it needs to be
 - Don't reinvent the wheel
@@ -36,14 +36,14 @@ Summer 2022
 - Break down code into cohesive and have singular responsibility
 
 -------------------------------
-## Static Analysis
+# Static Analysis
 
 - This type of analysis is performed as it is written.
 - Usually identifies issues of complexity, known vulnerabilities, test coverage
 - Often language-specific, though some analysis is uniform such as lines per method, number of layers of hierarchy, etc.
 
 -------------------------------
-## Dynamic Analysis
+# Dynamic Analysis
 
 - Tests code while it is running
 - Tests can be forms of penetration testing, vulnerability scans, SQL-injections, etc.
@@ -51,7 +51,7 @@ Summer 2022
 - Like static analysis can be language-specific but UI based analysis can be done via browser interaction automation tools.
 
 -------------------------------
-## Linting
+# Linting
 
 >Linting is the automated checking of your source code for programmatic and stylistic errors. This is done by using a lint tool (otherwise known as linter). A lint tool is a basic static code analyzer. [1]
 
@@ -59,7 +59,7 @@ Summer 2022
 - 
 
 -------------------------------
-## C/C++ Specific Tooling
+# C/C++ Specific Tooling
 
 - Package management/distribution with Conan and Artifactory
 - CI/CD with Jenkins, CircleCI, or Gitlab CI
@@ -68,6 +68,6 @@ Summer 2022
 - IDEs like Eclipse, CLion and have numerous plugins to integrate with other tools
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Bellairs, R. (n.d.). What is lint code? and why is linting important? Perforce Software. Retrieved June 4, 2022, from https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important.

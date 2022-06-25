@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Source Code Management System / Version Control Systems
+# Source Code Management System / Version Control Systems
 
 - Best documented origin of these systems come from IBM in the 1960's and 70's [1]
 - Revision Control System (RCS) is the first well-known system [2] and CVS is the follow-on networked SCM
@@ -24,7 +24,7 @@ Summer 2022
 - Git has won the distributed SCM battle
 
 -------------------------------
-## Terminology
+# Terminology
 
 - Commit - The saved state of a repository, which can be for multiple files, folders, etc.
 - Remote - a VCS server, which based on the model can be a central server or participating computer
@@ -37,7 +37,7 @@ Summer 2022
 
 -------------------------------
 
-## VCS prior to Git
+# VCS prior to Git
 
 - Systems like CVS and Subversion made each branch a folder that is a copy of originating branch.
 - This made VCS folders really large and duplicative.
@@ -47,7 +47,7 @@ Summer 2022
 
 -------------------------------
 
-## Git
+# Git
 
 - Developed by Linus Torvalds, the same guy that developed the Linux Kernel
 - The initial version was developed over 4 months and then turned over to another contributor
@@ -57,7 +57,7 @@ Summer 2022
 
 -------------------------------
 
-## How Git Changed VCS
+# How Git Changed VCS
 
 - Changes and commits are tracked as hashed differences down to single characters, multiple per file, folder, etc.
 - Branches are named (like before) and a collection of commit hashes
@@ -68,7 +68,7 @@ Summer 2022
 
 -------------------------------
 
-## How Teams Should Use Git
+# How Teams Should Use Git
 
 - Teams need to adopt well-defined strategies.
 - Frequent commits help, each time there is a major change not just before a merge.
@@ -78,28 +78,28 @@ Summer 2022
 
 -------------------------------
 
-## GitFlow
+# GitFlow
 
 ![bg left](./images/gitflow.png)
 [4]
 
 -------------------------------
 
-## GitHub Flow
+# GitHub Flow
 
 ![bg right](./images/github_flow.jpg)
 [3]
 
 -------------------------------
 
-## GitLab Flow
+# GitLab Flow
 
 ![bg left](./images/gitlab_flow.png)
 [5]
 
 -------------------------------
 
-## Bibliography
+# Bibliography
 
 1. Wikimedia Foundation. (2022, May 14). Version control. Wikipedia. Retrieved May 17, 2022, from https://en.wikipedia.org/wiki/Version_control.
 2. Tichy, W. F. (1985). RCS — a system for version control. Software: Practice and Experience, 15(7), 637–654. https://doi.org/10.1002/spe.4380150703

@@ -16,7 +16,7 @@ Fulbright-Nehru
 Summer 2022
 
 -------------------------------
-## Linux Build Tools
+# Linux Build Tools
 
 - What is a Build Tool?
 - History of Build Tools
@@ -25,7 +25,7 @@ Summer 2022
 - Ant
 
 -------------------------------
-## What is a Build Tool?
+# What is a Build Tool?
 
 - Build tools are meant to simplify the process of making executables, libraries, etc.
 - They also attempt to have a uniform and well-documented process of describing a build
@@ -33,7 +33,7 @@ Summer 2022
 - Build tools fall into a few categories including Make-compatible, -incompatible, and script-based
 
 -------------------------------
-## History of Build Tools
+# History of Build Tools
 
 - 1976 - Make [1]
 - 2000 - Ant
@@ -44,7 +44,7 @@ Summer 2022
 [2]
 
 -------------------------------
-## Make
+# Make
 
 - Make is the grandfather/mother of all build systems
 - It is still in heavy usage and development, as it is very general usable
@@ -55,7 +55,7 @@ Summer 2022
 [3]
 
 -------------------------------
-## CMake
+# CMake
 
 - CMake uses a CMakelists.txt as the main configuration file.
 - Purpose-built for use with C/C++
@@ -66,7 +66,7 @@ Summer 2022
 [4]
 
 -------------------------------
-## Ant
+# Ant
 
 - Ant is generally targetted at Java developers
 - The main file is build.xml
@@ -79,7 +79,7 @@ Summer 2022
 [5]
 
 -------------------------------
-## Bibliography
+# Bibliography
 
 1. Jorge, J. (2019, November 25). An overview of build systems (mostly for C++ projects). Medium. Retrieved June 4, 2022, from https://julienjorge.medium.com/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444 
 2. Wikimedia Foundation. (2022, May 9). List of build automation software. Wikipedia. Retrieved June 4, 2022, from https://en.wikipedia.org/wiki/List_of_build_automation_software 
