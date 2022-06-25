@@ -17,7 +17,7 @@ Summer 2022
 
 -------------------------------
 
-### Components-based Software Engineering
+# Components-based Software Engineering
 
 - "Component-based software engineering (CBSE) is an approach to software development that relies on the reuse of entities called ‘software components’" [1]
 - The level above object-oriented development
@@ -26,7 +26,7 @@ Summer 2022
 
 -------------------------------
 
-### Other Properties of CBSE
+# Other Properties of CBSE
 
 - Encourages decoupling
 - Testing is easier as components can be done in isolation
@@ -35,26 +35,28 @@ Summer 2022
 
 -------------------------------
 
-### Types of Software Components
+# Types of Software Components
 
 - User Interface - Windows, panes, menus, and buttons
 - Visualization components - Tables, Graphs, Maps, and plots
 - Services - APIs, RESTful, message queues, and sockets
 - Data - Databases, Tables, Documents, and Streams
+![bg right w:500 h:375](images/ui_components.png)
 
 -------------------------------
 
-### How to Manage Components
+# How to Manage Components
 
 - Packages, modules, libraries, services, and repositories
 - Interface documentation, such as UML, wikis, websites, and interactive (Swagger/OpenAPI) [2]
 - Components = Teams
 - Change Control Boards
 - Unit and Integration Testing
+![bg right w:419 h:237](images/uml.png)
 
 -------------------------------
 
-### Bibliography
+# Bibliography
 
 1. Sommerville, I. (2016). Chapter 16 Component-based software engineering. In Software engineering. essay, Pearson.
 2. Home. OpenAPI Initiative. (2022, April 14). Retrieved May 7, 2022, from https://www.openapis.org/

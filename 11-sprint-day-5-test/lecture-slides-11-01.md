@@ -8,7 +8,7 @@ class:
 ---
 
 # Fulbright-Nehru Lectures
-## 10 UI Frameworks
+## 11 Sprint Day 5 Test
 
 
 Chancellor T. Pascale
@@ -17,7 +17,7 @@ Summer 2022
 
 -------------------------------
 
-### Sprint Day 5 - Test
+# Sprint Day 5 - Test
 
 - The Five-Act Interview
 - Learn
@@ -25,7 +25,7 @@ Summer 2022
 
 -------------------------------
 
-### The Five-Act Interview
+# The Five-Act Interview
 
 1. Friendly welcome
 2. Open-ended context questions about the customer
@@ -36,17 +36,18 @@ Summer 2022
 
 -------------------------------
 
-### Friendly Welcome
+# Friendly Welcome
 
 - Make the interviewee feel comfortable
 - Let them know that they will be recorded for the team to view
 - In real life you would need a consent form
 - Set up a Zoom or something and keep the dev team watching
+![bg right w:194 h:259](./images/welcome.jpg)
 [1]
 
 -------------------------------
 
-### Open-ended Context Questions about the Customer
+# Open-ended Context Questions about the Customer
 
 - Have a natural conversation that is not clearly about the product
 - Start by asking personal or non-technical questions
@@ -56,17 +57,18 @@ Summer 2022
 
 -------------------------------
 
-### Introduce the Prototype
+# Introduce the Prototype
 
 - Make sure the interviewee knows that they are not being tested, "There are no wrong answers"
 - Tell them to think out loud
 - Talk generally about what the product does, don't create a plan of action for them
 - Insure that they know that these are prototypes and that not everything will work perfectly
+![bg right w:390 h:390](./images/no_wrong_answers.jpg)
 [1]
 
 -------------------------------
 
-### Tasks and nudges
+# Tasks and nudges
 
 - Give them a starting point, if possible make it relevant to their background
 - Tell them what you would like them to do
@@ -77,19 +79,20 @@ Summer 2022
 
 -------------------------------
 
-### Quick Debrief
+# Quick Debrief
 
 - How does this compare to what you normally do?
 - Would you recommend this to your colleague?
 - Which way worked for you?
 - Give some pros and cons?
 
-This should not be too long, just enough to get a clue of their general fealings about the product
-[1]
+This should not be too long, just enough to get a clue of their general fealings about the product [1]
+![w:470 h:190](./images/quick_debrief.jpg)
+
 
 -------------------------------
 
-### Learn
+# Learn
 
 - Watch together
 - Take notes together
@@ -101,6 +104,6 @@ This should not be too long, just enough to get a clue of their general fealings
 
 -------------------------------
 
-### Bibliography
+# Bibliography
 
 1. Knapp, J. Sprint; Penguin Books: London, 2021.

@@ -17,7 +17,7 @@ Summer 2022
 
 -------------------------------
 
-### Why should I use a UI Framework?
+# Why should I use a UI Framework?
 
 - Visual Coherence
 - Common Functionality
@@ -27,7 +27,7 @@ Summer 2022
 
 -------------------------------
 
-### Common Frameworks by Class/Language
+# Common Frameworks by Class/Language
 
 - Java - Swing, AWT, SWT, and JavaFX
 - Web - Material, Bootstrap, Foundation, One-Nexus, Vaadin
@@ -36,7 +36,11 @@ Summer 2022
 
 -------------------------------
 
-### Okay so we've already decided you would use Ncurses
+![bg w:915 h:664](./images/material_bootstrap.png)
+
+-------------------------------
+
+# Okay so we've already decided you would use Ncurses
 
 - It's based on curses library, which is used by vim and other classic Unix/Linux applications
 - Text-based UI framework
@@ -46,7 +50,12 @@ Summer 2022
 
 -------------------------------
 
-### How do I get it and use it
+![w:558 h:362](./images/ncurses_0.png)
+![bg right w:500 h:404](./images/ncurses_1.png)
+
+-------------------------------
+
+# How do I get it and use it
 
 - Get the source code via git or download directly
 - Ensure that you have `make` installed
@@ -58,7 +67,7 @@ Summer 2022
 
 -------------------------------
 
-### How do I make a UI from this?
+# How do I make a UI from this?
 
 - There is a great (yet old) [page](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/) with tons of detail
 - This will not be super easy, so design of components and interactivity is important
@@ -71,7 +80,7 @@ Summer 2022
 
 -------------------------------
 
-### So let's walk through the design of a UI
+# So let's walk through the design of a UI
 
 1. Consider your views, think of each distinct state
 2. For each view, consider the windows that make up the view
@@ -85,7 +94,12 @@ Summer 2022
 
 -------------------------------
 
-### Designing Components
+![w:546 h:370](./images/ncurses_2.png)
+![bg right w:520 h:388](./images/ncurses_3.png)
+
+-------------------------------
+
+# Designing Components
 
 - Use relative coordinates (x, y, height, width) and ensure they are externally available
 - Extend existing components, create your own with common state and access patterns

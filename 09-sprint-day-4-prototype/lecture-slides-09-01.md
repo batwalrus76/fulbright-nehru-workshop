@@ -17,7 +17,7 @@ Summer 2022
 
 -------------------------------
 
-### Fake it
+# Fake it
 
 - Building the real thing is costly but a facade is cheap to make
 - The more time spent on building something:
@@ -28,7 +28,7 @@ Summer 2022
 
 -------------------------------
 
-### Prototypes
+# Prototypes
 
 "
 1. Anything can be prototyped
@@ -39,9 +39,11 @@ Summer 2022
 
 The goal is to be spend just enough time to appear real and to test out your idea.
 
+![bg right](./images/goldilocks.jpg)
+
 -------------------------------
 
-### Prototyping
+# Prototyping
 
 1. Pick the right tool
 2. Divide and Conquer
@@ -51,7 +53,7 @@ The goal is to be spend just enough time to appear real and to test out your ide
 
 -------------------------------
 
-### Divide and Conquer
+# Divide and Conquer
 
 Take your team and split up the work:
 
@@ -63,11 +65,12 @@ Take your team and split up the work:
 
 Product Owner and Notetakers keep their job
 
+![](./images/split_up.jpg)
 [1]
 
 -------------------------------
 
-### Prep for tomorrow
+# Prep for tomorrow
 
 - Stitch everything together
 - Do at least 1 dry run with the Interviewer as the audience
@@ -77,6 +80,6 @@ Product Owner and Notetakers keep their job
 
 -------------------------------
 
-### Bibliography
+# Bibliography
 
 1. Knapp, J. Sprint; Penguin Books: London, 2021.

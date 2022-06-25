@@ -17,7 +17,7 @@ Summer 2022
 
 -------------------------------
 
-### Remix and Improve
+# Remix and Improve
 
 - 1 hour total
 - Find products that can be an inspiration (15 minutes)
@@ -28,7 +28,7 @@ Summer 2022
 
 -------------------------------
 
-### Sketch
+# Sketch
 
 The Four-Step Sketch (2 hours):
 
@@ -41,7 +41,7 @@ The Four-Step Sketch (2 hours):
 
 -------------------------------
 
-### Notes
+# Notes
 
 - Take 30 minutes to prepare reference material
 - Look at any notes (even consider venturing to other teams boards if you have time)
@@ -52,7 +52,7 @@ The Four-Step Sketch (2 hours):
 
 -------------------------------
 
-### Ideas
+# Ideas
 
 - Take 20 minutes to draw your ideas related to your challenge
 - These ideas are yours, no need to share
@@ -63,7 +63,7 @@ The Four-Step Sketch (2 hours):
 
 -------------------------------
 
-### Crazy 8s
+# Crazy 8s
 
 - Takes 8 or so minutes
 - Fold a piece of paper into 8 sections
@@ -76,7 +76,7 @@ The Four-Step Sketch (2 hours):
 
 -------------------------------
 
-### Solution Sketch
+# Solution Sketch
 
 - Takes 30 minutes
 - It should 1 single cohesive idea
@@ -91,6 +91,6 @@ The Four-Step Sketch (2 hours):
 
 -------------------------------
 
-### Bibliography
+# Bibliography
 
 1. Knapp, J. Sprint; Penguin Books: London, 2021.

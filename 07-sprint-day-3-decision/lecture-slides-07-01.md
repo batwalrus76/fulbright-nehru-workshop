@@ -17,7 +17,7 @@ Summer 2022
 
 -------------------------------
 
-### Decide on the Best
+# Decide on the Best
 
 - Decide
 - Rumble
@@ -26,7 +26,7 @@ Summer 2022
 
 -------------------------------
 
-### Decide
+# Decide
 
 1. Art Museum
 2. Heat Map
@@ -37,34 +37,27 @@ Summer 2022
 
 -------------------------------
 
-### Art Museum
+# Art Museum
 
 - Put sketches on the board
 - Display them on a wall
 - Try to preserve chronological order
+![bg right w:330 h:153](images/art_museum.jpg)
 [1]
 
 -------------------------------
 
-### Art Museum
-
-- Put sketches on the board
-- Display them on a wall
-- Try to preserve chronological order
-[1]
-
--------------------------------
-
-### Heat Map
+# Heat Map
 
 - Each person has the option to vote
 - No rules on votes
 - Your vote is on the parts of the various storyboard cells
+![w:538 h:314](images/heatmap.png)
 [1]
 
 -------------------------------
 
-### Speed Critique
+# Speed Critique
 
 For each sketch:
 - Spend 3 minutes
@@ -76,18 +69,19 @@ For each sketch:
 
 -------------------------------
 
-### Straw Poll and Supervote
+# Straw Poll and Supervote
 
 - Each person takes notes to describe their vote
 - Everyone puts a dot on the part or the whole of the sketch that they are voting for
 - Each person spends one minute decribing their vote
 - The Decider listens to the team to help with their decision
 - The Decider has three votes and anything with a supervote wins
+![w:538 h:314](images/heatmap.png)
 [1]
 
 -------------------------------
 
-### Rumble
+# Rumble
 
 - If there is too disparate of choices, then you will have another round
 - Each team member describes says their favorite and describes why, quickly
@@ -97,17 +91,18 @@ For each sketch:
 
 -------------------------------
 
-### Storyboard
+# Storyboard
 
 - Its the artists' time to shine, they are the focal point
 - Go to a big whiteboard/wall, it will hold a 5x3 grid of 1-2 page boxes
 - Choose a starting point (screen, CLI, etc.)
 - Go from left to right, row by row, draw in a cell
+![bg right w:480 h:256](images/storyboard.jpg)
 [1]
 
 -------------------------------
 
-### Cells
+# Cells
 
 - Cells are initialy sketches, important words
 - Each cell is a major state, use stickies to indicate how state is changed
@@ -116,7 +111,7 @@ For each sketch:
 
 -------------------------------
 
-### General Guidelines
+# General Guidelines
 
 - The whole storyboard should encapsulate the objectives from start to end.
 - The decider in the end decides what goes on each cell
@@ -125,6 +120,6 @@ For each sketch:
 [1]
 
 -------------------------------
-### Bibliography
+# Bibliography
 
 1. Knapp, J. Sprint; Penguin Books: London, 2021.
