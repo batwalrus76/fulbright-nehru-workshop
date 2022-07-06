@@ -200,7 +200,7 @@ Summer 2022
 
 - 0830 - 0845 [DevOps](lecture-slides-23-01.md) *
 - 0845 - 0900 Scrum
-- 0900 - 0915 Testing Leads Meeting
+- 0900 - 0915 Technical Writers Huddle
 - 0900 - 1145 Development
 - 1145 - 1200 End of day demo
 
@@ -220,5 +220,5 @@ Summer 2022
 ## Friday July 22
 
 - 0830 - 0845 Scrum
-- 0900 - 1130 Development
+- 0845 - 1130 Development
 - 1130 - 1200 Lightning component presentations, overall current state of application plans, and final thoughts
