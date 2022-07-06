@@ -77,6 +77,26 @@ Summer 2022
 
 -------------------------------
 
+# Environment Variables
+
+- Once you open your terminal/shell, you will have environment variables.
+- By convention, they are capitalized and camel-cased (e.g. APP_HOME).
+- They are available to the terminal and any application that can read from the operating system.
+- They can be built up and use other environment variables (e.g. PATH=$PATH:$HOME/bin)
+- There are numerous special environment variables such as PATH, HOME, SHELL)
+
+-------------------------------
+
+# Aliases
+
+- Basically they all you to alias a complex command into an executable name
+- The name of the executable can be anything but often very short and easily understood
+- The command can pretty much be any executable with args and even multiple commands piped together
+- The syntax to create an alias is `alias name="command(s) with args"`
+- `alias psag="ps aux | grep"`
+
+-------------------------------
+
 # Bibliography
 
 - Shotts, W. E. (n.d.). What is "The shell"? Learning the shell - Lesson 1: What is the shell? Retrieved May 16, 2022, from https://linuxcommand.org/lc3_lts0010.php

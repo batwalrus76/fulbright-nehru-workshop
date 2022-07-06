@@ -59,6 +59,15 @@ you need to break something to make it work in the long run, do it early -->
 
 -------------------------------
 
+# UI Text Editor Components
+
+1. Core - everything goes through this
+2. File System - reading, writing, temp files
+3. Menu Bar - File, Edit, View, etc.
+4. Text Editor Window - Where user sees and modifies text
+
+-------------------------------
+
 # Team Roles
 
 <style scoped>
@@ -72,8 +81,7 @@ ul { columns: 2; }
 - Test Engineer
 - Technical Writer
 - Systems Administrator
-- Bug Squasher
-- Designated User
+- Designated User (Can be 2nd role for developer)
 
 <!-- Choose what you are best at but you will not only be fulfilling that role -->
 <!-- If we have more people than roles on a team, then split responsibilities or have a co-lead -->
