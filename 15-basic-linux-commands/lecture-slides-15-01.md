@@ -31,8 +31,8 @@ Summer 2022
 - `ls [-options] <filesystem location>` - List the contents of the filesystem location
     - `-l` long format
     - `-a` include hidden files (starting with '.' character)
-- `ll [-options] <filesystem location>` - Same as above but `ls -la`
-- tree [-options] <filesystem location>` - Traverse the passed filesystem location's directory tree
+- `ll [-options] <filesystem location>` - Same as above but `ls -l`
+- `tree [-options] <filesystem location>` - Traverse the passed filesystem location's directory tree
 
 -------------------------------
 # Filesystem management 1
@@ -41,7 +41,7 @@ Summer 2022
 - `mkdir <filesystem location>` - Make a directory at the location specified, owned by the current user and their default group.
 - `rm [-options] <filesystem location>*` - Remove one or more files/directories
     - `-R` - recursively
-    - `-f` - force (use this with caution
+    - `-f` - force (use this with caution)
 
 -------------------------------
 # Filesystem management 2
@@ -67,7 +67,7 @@ Summer 2022
 - `~` - Change to the current user's home directory
 - `cd <filesystem location>` - Change to the specified location
 - `pushd <filesystem location>` - Push the current directory onto a stack of directories and change to the filesystem location
-- `popd <filesystem location>` - Change to the directory at the top of the directory stack, which is removed
+- `popd` - Change to the directory at the top of the directory stack, which is removed
 
 -------------------------------
 # Text Processing
