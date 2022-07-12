@@ -89,7 +89,7 @@ Summer 2022
 
 # Aliases
 
-- Basically they all you to alias a complex command into an executable name
+- Basically they allow you to alias a complex command into an executable name
 - The name of the executable can be anything but often very short and easily understood
 - The command can pretty much be any executable with args and even multiple commands piped together
 - The syntax to create an alias is `alias name="command(s) with args"`

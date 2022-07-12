@@ -100,8 +100,8 @@ Summer 2022
 # Week 1 Design and Sprint
 ## Friday July 8
 
-- 0830 - 0845 Recap and Prepare
-- 0845 - 0900 [Google Sprint Day 5: Test](lecture-slides-1-01.md)
+- 0830 - 0835 [Google Sprint Day 5: Test](lecture-slides-11-01.md)
+- 0835 - 0900 Prepare
 - 0900 - 1030 Google Sprint - Interviews (30 minutes with 3 users)
 - 1030 - 1050 Break
 - 1050 - 1245 Google Sprint - Learn (combine notes, identify big issues)
@@ -138,10 +138,8 @@ Summer 2022
 # Week 2 Linux Development
 ## Wednesday July 13
 
-- 0830 - 0845 [Threads and System performance](lecture-slides-16-01.md) *
-- 0845 - 0900 Scrum
-- 0900 - 1250 Development
-- 1250 - 1300 [Linux services](lecture-slides-17-01.md) *
+- 0830 - 0845 Scrum
+- 0845 - 1300 Development
 - 1300 - 1330 Lunch Break
 - 1330 - 1415 Development
 - 1415 - 1430 End of day demo
@@ -151,10 +149,9 @@ Summer 2022
 # Week 2 Linux Development
 ## Thursday July 14
 
-- 0830 - 0845 [Executables and libraries](lecture-slides-19-01.md)
+- 0830 - 0845 [Documentation](lecture-slides-21-01.md)
 - 0845 - 0900 Scrum
-- 0900 - 1250 Development
-- 1250 - 1300 [Documentation](lecture-slides-21-01.md) *
+- 0900 - 1300 Development
 - 1300 - 1330 Lunch Break
 - 1330 - 1415 Development
 - 1415 - 1430 End of day demo
@@ -187,7 +184,7 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Tuesday July 19
 
-- 0830 - 0845 [Code Quality Metrics](lecture-slides-23-01.md) *
+- 0830 - 0845 [DevOps](lecture-slides-23-01.md) *
 - 0845 - 0900 Scrum
 - 0900 - 0915 Testing Leads Meeting
 - 0900 - 1145 Development
@@ -198,10 +195,9 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Wednesday July 20
 
-- 0830 - 0845 [DevOps](lecture-slides-23-01.md) *
-- 0845 - 0900 Scrum
-- 0900 - 0915 Technical Writers Huddle
-- 0900 - 1145 Development
+- 0830 - 0845 Scrum
+- 0845 - 0900 Technical Writers Huddle
+- 0845 - 1145 Development
 - 1145 - 1200 End of day demo
 
 -------------------------------
@@ -209,9 +205,8 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Thursday July 21
 
-- 0830 - 0845 [C Package/Application distribution](lecture-slides-25-01.md)
-- 0845 - 0900 Scrum
-- 0900 - 1145 Development
+- 0830 - 0845 Scrum
+- 0845 - 1145 Development
 - 1145 - 1200 End of day demo
 
 -------------------------------
