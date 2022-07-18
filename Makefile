@@ -22,9 +22,6 @@ build-slides-dir:
 clean-slides-dir:
 	rm -rf slides/*.md slides/diagrams/* slides/images/*
 
-run-marp-server:
-	bash -c "nohup marp --server slides &" \;
-
 build-exercises-dir:
 	find . -type d -name "[0-9]*" -not -path '*/.*' -exec bash -c "cp -r \"{}\"/exercises/*.md exercises &>/dev/null" \;
 	find . -type d -name "[0-9]*" -not -path '*/.*' -exec bash -c "cp -r \"{}\"/exercises/diagrams/* exercises/diagrams &>/dev/null" \;

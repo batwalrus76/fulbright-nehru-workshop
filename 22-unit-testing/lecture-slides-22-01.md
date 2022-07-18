@@ -59,6 +59,7 @@ Summer 2022
 -------------------------------
 # CUnit/CppUnit part 1
 
+- Install via `sudo apt install libcunit1 libcunit1-doc libcunit1-dev`
 - CUnit testing hierarchy is Test Registry -> Suite -> Test
 - CUnit testing process:
     1. CU_initialize_registry(void)
@@ -70,6 +71,7 @@ Summer 2022
 [2]
 
 -------------------------------
+
 # CUnit/CppUnit part 2
 
 - You can retrieve various test results

@@ -138,11 +138,16 @@ Summer 2022
 # Week 2 Linux Development
 ## Wednesday July 13
 
-- 0830 - 0845 Scrum
-- 0845 - 1300 Development
-- 1300 - 1330 Lunch Break
-- 1330 - 1415 Development
-- 1415 - 1430 End of day demo
+Things to do today:
+
+1. Help Core with Text editor UI window
+2. Product owners meet at start of day, after tea break, and after Lunch
+3. Make your code modular no code in root directory (e.g. /src/menu/bar.c, /src/menu/bar.h)
+4. Each team should merge their team branch (e.g. corebranch) into the master branch
+
+To do this:
+1. git checkout master
+2. git merge TEAMBRANCH_NAME
 
 -------------------------------
 
@@ -161,8 +166,7 @@ Summer 2022
 # Week 2 Linux Development
 ## Friday July 15
 
-- 0830 - 0845 [Testing](lecture-slides-22-01.md)
-- 0845 - 0900 Scrum
+- 0830 - 0845 Scrum
 - 0900 - 1300 Development
 - 1300 - 1330 Lunch Break
 - 1330 - 1415 Development
@@ -173,20 +177,22 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Monday July 18
 
-- 0830 - 0845 [Build tools](lecture-slides-20-01.md)
-- 0845 - 0900 Recap and Sprint Planning
-- 0900 - 0915 Testing Leads Meeting
-- 0900 - 1145 Development
-- 1145 - 1200 End of day demo
+- 1015 - 1030 [Testing](lecture-slides-22-01.md)
+- 1030 - 1045 Recap and Sprint Planning
+- 1045 - 1100 Testing Leads Meeting
+- 1100 - 1115 Technical Writers Huddle
+- 1045 - 1300 Development
+- 1300 - 1315 End of day demo
 
 -------------------------------
 
 # Week 3 Software Dev, Test, and Docs
 ## Tuesday July 19
 
-- 0830 - 0845 [DevOps](lecture-slides-23-01.md) *
-- 0845 - 0900 Scrum
-- 0900 - 0915 Testing Leads Meeting
+- 0900 - 0915 [Build tools](lecture-slides-20-01.md)
+- 0915 - 0930 Scrum
+- 0930 - 0945 Testing Leads Meeting
+- 0945 - 1000 Technical Writers Huddle
 - 0900 - 1145 Development
 - 1145 - 1200 End of day demo
 
@@ -195,9 +201,11 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Wednesday July 20
 
-- 0830 - 0845 Scrum
-- 0845 - 0900 Technical Writers Huddle
-- 0845 - 1145 Development
+- 0900 - 0915 [DevOps](lecture-slides-23-01.md)
+- 0915 - 0930 Scrum
+- 0930 - 0945 Testing Leads Meeting
+- 0945 - 1000 Technical Writers Huddle
+- 0900 - 1145 Development
 - 1145 - 1200 End of day demo
 
 -------------------------------
@@ -205,8 +213,8 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Thursday July 21
 
-- 0830 - 0845 Scrum
-- 0845 - 1145 Development
+- 0900 - 0915 Scrum
+- 0915 - 1145 Development
 - 1145 - 1200 End of day demo
 
 -------------------------------
@@ -214,6 +222,6 @@ Summer 2022
 # Week 3 Software Dev, Test, and Docs
 ## Friday July 22
 
-- 0830 - 0845 Scrum
-- 0845 - 1130 Development
+- 0900 - 0915 Scrum
+- 0915 - 1145 Development/Preparation
 - 1130 - 1200 Lightning component presentations, overall current state of application plans, and final thoughts
