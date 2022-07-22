@@ -214,8 +214,7 @@ To do this:
 ## Thursday July 21
 
 - 0900 - 0915 Scrum
-- 0915 - 1145 Development
-- 1145 - 1200 End of day demo
+- 0915 - 1200 Development
 
 -------------------------------
 
@@ -223,5 +222,26 @@ To do this:
 ## Friday July 22
 
 - 0900 - 0915 Scrum
-- 0915 - 1145 Development/Preparation
+- 0915 - 1115 Development/Preparation
+- 1115 - 1130 Demo
 - 1130 - 1200 Lightning component presentations, overall current state of application plans, and final thoughts
+
+-------------------------------
+
+# Next Steps
+
+- Continue Developing, Testing, and Documenting iText
+- You should transition to GitHub and make sure your documentation uses your GitHub account names
+- Join the GitHub project and commit to this repository
+- Put your GitHub account name on your resume and be prepared to talk about this project and your contribution
+
+-------------------------------
+
+# Thank You So Much! Mikka Nanri!
+
+- Feel free to reach out to me via:
+    - Email: cpascal3@jh.edu
+    - LinkedIn: @chancepascale
+- I am happy to answer any questions and/or write a letter of recommendation.
+    - Please email me if you want me to write a letter of recommendation
+- This has been such a great opportunity for me.
